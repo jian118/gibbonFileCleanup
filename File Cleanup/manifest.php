@@ -20,14 +20,14 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //This file describes the module, including database tables
 
 //Basic variables
-$name="FileCleanup" ; //The name of the variable as it appears to users. Needs to be unique to installation. Also the name of the folder that holds the unit.
-$description="File listing for unused files" ; //Short text description
-$entryURL="z-fileclean.php" ; //The landing page for the unit, used in the main menu
-$type="Additional" ; //Do not change.
-$category="Admin" ; //The main menu area to place the module in
-$version="1.0.0" ; //Verson number
-$author="Jian" ; //Your name
-$url="" ; //Your URL
+$name = "File Cleanup" ; //The name of the variable as it appears to users. Needs to be unique to installation. Also the name of the folder that holds the unit.
+$description = "File listing for unused files" ; //Short text description
+$entryURL = "z-fileclean.php" ; //The landing page for the unit, used in the main menu
+$type = "Additional" ; //Do not change.
+$category = "Admin" ; //The main menu area to place the module in
+$version = "1.0.0" ; //Verson number
+$author = "Jian" ; //Your name
+$url = "" ; //Your URL
 
 //Module tables
 //$moduleTables[0]='';
